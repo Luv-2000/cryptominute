@@ -10,7 +10,7 @@ const CoinComponent = () => {
     return (
       <div class="col-md-4 col-sm-6 col-xs-12" key={id}>
         <div
-          class="card mt-3 mb-2  ms-auto"
+          class="card mt-3 mb-2  m-auto"
           style={{
             maxWidth: "18rem",
             maxHeight: "17rem",
