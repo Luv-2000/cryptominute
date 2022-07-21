@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cryptominute/static/css/main.abd64e84.css",
+    "main.js": "/cryptominute/static/js/main.cc574643.js",
+    "index.html": "/cryptominute/index.html",
+    "main.abd64e84.css.map": "/cryptominute/static/css/main.abd64e84.css.map",
+    "main.cc574643.js.map": "/cryptominute/static/js/main.cc574643.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.cc574643.js"
+  ]
+}
